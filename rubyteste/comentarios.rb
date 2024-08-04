@@ -1,0 +1,9 @@
+# comentário de uma linha
+
+=begin 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam volutpat orci vel congue molestie. Integer lacinia elementum tellus auctor lobortis. Pellentesque ipsum mauris, malesuada ac risus ut, rhoncus pretium nulla. Nunc auctor laoreet elementum. Vivamus elementum ex sodales est convallis vestibulum. Duis eget posuere arcu. Quisque eleifend ullamcorper arcu non auctor. Donec quis tortor volutpat, volutpat quam eget, pretium velit. Suspendisse hendrerit malesuada sapien, a finibus est pellentesque quis. Nullam eget velit rhoncus magna pellentesque feugiat sed a tortor. Curabitur eget enim vehicula risus facilisis dignissim. Phasellus sed velit sed elit fringilla tempor. Phasellus et lectus non purus tempor cursus. In dapibus magna lorem, vel gravida nulla semper at. Curabitur vitae lacus facilisis, mollis urna non, blandit lorem. Sed laoreet arcu laoreet sapien volutpat, vel rutrum sapien maximus.
+
+Mauris sit amet tincidunt purus. Etiam ut nisl ante. Integer sagittis venenatis risus et porta. Ut id quam accumsan erat mollis convallis. Nullam volutpat, lacus lacinia laoreet placerat, libero est cursus metus, nec facilisis erat diam at dolor. Ut dignissim ante et erat sollicitudin, sit amet facilisis nisi dignissim. Quisque sed leo elementum, aliquam ipsum eget, maximus urna. Praesent iaculis mattis lectus, a posuere mauris. Duis mattis tristique tortor vel semper. Vestibulum auctor lobortis augue quis suscipit. Cras commodo tortor erat, tincidunt iaculis mi varius eget. Curabitur quis massa mauris. Duis suscipit velit ac lacus malesuada, sed venenatis turpis consectetur.
+
+Mauris nec ultrices justo. Maecenas sollicitudin volutpat cursus. Aenean scelerisque ultricies erat ac lobortis. Proin et metus posuere, ultrices sapien in, imperdiet dolor. Sed tempor finibus risus, quis aliquet diam venenatis dapibus. Donec sed iaculis enim. Nulla varius nisi facilisis lacus accumsan ornare.
+=end

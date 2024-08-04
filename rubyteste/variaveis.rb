@@ -1,0 +1,6 @@
+Tipo:
+
+Inteiro: 1,2,3...
+Float: 1,2;2,3458;...
+String: "frases"
+Boolean: true ou false
